@@ -1,34 +1,39 @@
 # HR-ANALYSIS
+
 ## Project Objective:
-The Primary goal of my HR analytics Project was to delve into employee attrition trends within an organisation by leveraging data. I aimed to uncover patterns and factors that contribute to attrition rates.
+This project delves into employee attrition trends within an organization, aiming to uncover patterns and factors contributing to attrition rates. By analyzing key metrics, we provide actionable insights to help reduce turnover and improve employee satisfaction.
+
 ## Data set used:
 - <a href="https://github.com/Shilpa2654/HR-ANALYSIS/blob/main/HR_Analytics.csv">HR analysis data</a>
+Description: The dataset includes employee demographics, job roles, compensation details, and attrition status.
+
 ## Questions (KPIs):
-1. How many Employees are there in the company?
-2. What is the attrition count?
-3. Calculate the attrition rate.
-4. Which age group got the highest attrition count?
-5. Compare attrition by Gender.
-6. Attrition by Years at Company.
-7. Attrition by Education.
+1. Total Employees: Determine the current workforce size.
+2. Attrition Count: Identify the number of employees who have left.
+3. Attrition Rate: Calculate the percentage of employees leaving the organization.
+4. Attrition by Age Group: Analyze which age groups have higher attrition.
+5. Attrition by Gender: Compare attrition rates between male and female employees.
+6. Attrition by Tenure: Examine attrition concerning years spent at the company.
+7. Attrition by Education Level: Assess how education levels correlate with attrition.
 8. Dashboard interaction - <a href="https://github.com/Shilpa2654/HR-ANALYSIS/blob/main/HR%20DASHBOARD.png">Report</a> .
+   
 ## Process:
-- Understanding the organisation's business goals.
-- Identifying the metrics to be analysed to achieve those goals.
-- Collecting and analysing the relevent data.
-- Obtaining insights to this data.
-- Communicating how this data impacts the organisation.
+- Business Understanding: Align analysis objectives with organizational goals.
+- Data Collection: Gather relevant employee data for analysis.
+- Data Analysis: Utilize statistical methods to identify attrition patterns.
+- Insights Generation: Derive actionable insights from the analysis.
+- Communication: Present findings to stakeholders effectively.
+
 ## Dashboard:
 ![image](https://github.com/user-attachments/assets/6bc615cb-725b-49ca-8674-2418e3447975)
+This interactive Power BI dashboard visualizes attrition metrics, enabling stakeholders to explore data dynamically.
 
 ## Project insight:
-- Age group of 26-35 are more likely to leave the company.
-- Employees having low salary (below 5k) not satisfied with payment so left the company.
-- Compare to male and female most of the male (140) leave the company.
-- There is a 16.12% of attrition rate of the company.
+- Age Factor: Employees aged 26-35 exhibit higher attrition rates.
+- Salary Satisfaction: Employees earning below $5,000 are more likely to leave due to dissatisfaction.
+- Gender Comparison: Male employees have a higher attrition count (140) compared to females.
+- Overall Attrition Rate: The company's attrition rate stands at 16.12%.
 
 ## Final Conclusion:
-Incorporating to this Power BI Dashboard into my portfolio has not only showcased my data visualiseation skills but also highlighted the critical insights that data analysis can offer to HR departments.
-By exploring  Education based trends , Departmentwise attrition, Age group analysis, Gender based attrition, Job satisfaction and other key matrix.
-This project has demonstrated the potential foe data driven HR decisions.
+Integrating this Power BI dashboard into the HR management process provides a comprehensive view of attrition dynamics, facilitating data-driven decision-making to enhance employee retention strategies.
 
